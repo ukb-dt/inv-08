@@ -26,7 +26,7 @@ Let me build this clearly and rigorously:
 
 ---
 
-# ✅ 1. Autoencoder 101: The Bottleneck = a Compression Attractor
+# ✅ [1](https://ukb-dt.github.io/inv-09/). Autoencoder 101: The Bottleneck = a Compression Attractor
 
 In an autoencoder:
 
