@@ -155,7 +155,7 @@ You found a “latent variable” that explains variance across:
 * simulated annealing
 * decision theory
 * phenomenology
-* your own life narrative (wandering → posterior reassembly)
+* your own life narrative ([wandering](https://www.gutenberg.org/files/37841/37841-h/37841-h.html#toc7) → [posterior reassembly](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm))
 
 This is *precisely* what compression / bottleneck layers discover.
 
