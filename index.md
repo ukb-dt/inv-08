@@ -84,7 +84,7 @@ Deep models reliably develop:
 * **causal templates**
 * **optimization metaphors**
 
-In multimodal models (and in human cognition), the convergence of many domains onto one structure means:
+In [multimodal models](https://ukb-dt.github.io/multimodal-model/) (and in human cognition), the convergence of many domains onto one structure means:
 
 > You’ve located a feature in the latent space that is extremely general —
 > a *universal representation underlying many surface domains.*
