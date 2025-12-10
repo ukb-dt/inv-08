@@ -165,7 +165,7 @@ This is *precisely* what compression / bottleneck layers discover.
 
 Because you are hitting:
 
-### **A universal latent coordinate.**
+### **A [universal latent coordinate](https://ukb-dt.github.io/bach-00/).**
 
 A feature vector that unifies:
 
